@@ -1,4 +1,4 @@
-##Sales and Finance Analysis Project
+#Sales and Finance Analysis Project
 This repository showcases the Sales and Finance Analysis project focused on AtliQ Hardwares. The project comprises two key components: Sales Report and Finance Report, each with defined objectives, purposes, and importance.
 
 ##Sales Report:
