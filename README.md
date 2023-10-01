@@ -44,14 +44,25 @@ Align financial planning with strategic goals and instill confidence in the orga
 #Technical Skills:
 
 ETL Methodology (Extract, Transform, Load) Proficiency.
+
 Date Table Generation using Power Query.
+
 Deriving Fiscal Months and Quarters.
+
 Data Model Relationships with Power Pivot.
+
 Incorporating Supplementary Data into Existing Data Model.
+
 DAX (Data Analysis Expressions) for Calculated Columns.
+
 Soft Skills:
+
 Refined Understanding of Sales & Finance Reports.
+
 Designing User-Centric Reports with Empathy in Mind.
+
 Optimization of Report Generation through Meticulous Fine-Tuning.
+
 Developing a Systematic Approach to Devising a Report Building Plan.
+
 Feel free to explore, collaborate, and leverage the insights presented in this project! If you have any questions or suggestions, please don't hesitate to reach out. 📊🚀
