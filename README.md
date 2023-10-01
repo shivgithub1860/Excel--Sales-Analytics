@@ -2,7 +2,9 @@
 This repository showcases the Sales and Finance Analysis project focused on AtliQ Hardwares. The project comprises two key components: Sales Report and Finance Report, each with defined objectives, purposes, and importance.
 
 ##Sales Report:
+
 #Project Objectives:
+
 #Customer Performance Report:
 Generate a detailed report on customer performance. [Customer Performance Report (PDF)](https://github.com/shivgithub1860/Excel--Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
@@ -19,7 +21,9 @@ Identify sales patterns and track key performance indicators (KPIs) for data-dri
 Facilitate effective customer discounts, and negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 ##Finance Report:
+
 #Project Objectives:
+
 Profit and Loss (P&L) by Fiscal Year and Months:
 Create P&L reports categorized by fiscal years and months. [P&L by Fiscal Year (PDF)](https://github.com/shivgithub1860/Excel--Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) | [P&L by Months (PDF)
 ](https://github.com/shivgithub1860/Excel--Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
@@ -36,7 +40,9 @@ Aid in benchmarking against industry peers, previous periods, and serve as the f
 Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
 
 ##Technical & Soft Skills:
+
 #Technical Skills:
+
 ETL Methodology (Extract, Transform, Load) Proficiency.
 Date Table Generation using Power Query.
 Deriving Fiscal Months and Quarters.
