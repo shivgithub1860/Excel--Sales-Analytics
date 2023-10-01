@@ -16,7 +16,7 @@ Empower businesses to monitor and evaluate sales activities and performance, aid
 Identify sales patterns and track key performance indicators (KPIs) for data-driven insights.
 
 #Role of Reports:
-Facilitate effective customer discounts, negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Facilitate effective customer discounts, and negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 ##Finance Report:
 #Project Objectives:
