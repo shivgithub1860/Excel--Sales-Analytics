@@ -5,7 +5,7 @@ This repository showcases the Sales and Finance Analysis project focused on Atli
 
 
 
-## Report Links : https://drive.google.com/drive/u/0/folders/1K2JUs3IDf_Sfs-OMloVPnE0BS615N7xq
+## PDF Reports Links : https://drive.google.com/drive/u/0/folders/1K2JUs3IDf_Sfs-OMloVPnE0BS615N7xq
 ## Sales Report:
 
 ### Project Objective
